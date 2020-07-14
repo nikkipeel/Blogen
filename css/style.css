@@ -1,0 +1,12 @@
+.btn-primary,
+.bg-primary {
+  background-color: #284897 !important;
+}
+
+.btn-success {
+  background-color: #3fa95d !important;
+}
+
+.btn-warning {
+  background-color: #edb135 !important;
+}
